@@ -260,7 +260,7 @@ Stats
 Portfolio
  ========================================================================== */
 .hover-details {width: 100%; height: auto; overflow: hidden; position: relative; -moz-transition: all ease 400ms ease-in-out; -webkit-transition: all ease 400ms ease-in-out; -o-transition: all ease 400ms ease-in-out; transition: all ease 400ms ease-in-out; margin-bottom: 40px; }
-.hover-details .img-cover { width: 100%; height: 100%; opacity: 0; position: absolute; top: 0; left: 0; background: rgba(8, 180, 218, 0.9); -moz-transition: all ease 400ms ease-in-out; -webkit-transition: all ease 400ms ease-in-out; -o-transition: all ease 400ms ease-in-out; transition: all ease 400ms ease-in-out;}
+.hover-details .img-cover { width: 100%; height: 100%; opacity: 0; position: absolute; top: 0; left: 0; background: rgba(138, 198, 4, 0.8); -moz-transition: all ease 400ms ease-in-out; -webkit-transition: all ease 400ms ease-in-out; -o-transition: all ease 400ms ease-in-out; transition: all ease 400ms ease-in-out;}
 .hover-details > img { width: 100%; height: auto; -moz-transition: all ease 400ms ease-in-out; -webkit-transition: all ease 400ms ease-in-out; -o-transition: all ease 400ms ease-in-out; transition: all ease 400ms ease-in-out; }
 
 .img-zoom { width: 45px; height: 45px; background-color: #1a1a1a; line-height: 45px; position: absolute; top: -45%; left: 50%; border-radius: 3px; margin-top: -35px; margin-left:  -25px; -webkit-transition: all ease 400ms ease-in-out; -moz-transition: all ease 400ms ease-in-out; -ms-transition: all ease 400ms ease-in-out; -o-transition: all ease 400ms ease-in-out; transition: all ease 400ms ease-in-out; text-align: center;}
