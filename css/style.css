@@ -216,7 +216,7 @@ Process Steps
 ========================================================================== */
 ul.steps-list li {margin-bottom: 25px; border-bottom:1px solid rgba(0,0,0,0.03);}
 ul.steps-list li:last-child {border-bottom: none;}
-ul.steps-list li span{ float:left; border-radius: 50%; width: 55px; height: 55px; line-height: 55px; display:block; font-size:22px; font-weight:bold; text-align:center; background: #1a1a1a; }
+ul.steps-list li span{ float:left; border-radius: 50%; width: 25px; height: 25px; line-height: 55px; display:block; font-size:22px; font-weight:bold; text-align:center; background: #1a1a1a; }
 ul.steps-list li h4,
 ul.steps-list li p { margin-left: 80px; }
 ul.steps-list li h5 { font-weight:600;}
