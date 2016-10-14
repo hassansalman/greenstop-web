@@ -64,7 +64,7 @@ Classes
 .border-right {border-right: 1px solid #EFEFEF;}
 .border-top {border-top: 1px solid #EFEFEF;}
 .border-bottom {border-bottom: 1px solid #EFEFEF;}
-
+.border {   border-width: 25px;   border-color: black;   border-style: solid; } 
 .separator30 {margin:30px 0;}
 .separator60 {margin:60px 0;}
 
