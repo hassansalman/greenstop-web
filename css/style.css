@@ -64,7 +64,7 @@ Classes
 .border-right {border-right: 1px solid #EFEFEF;}
 .border-top {border-top: 1px solid #EFEFEF;}
 .border-bottom {border-bottom: 1px solid #EFEFEF;}
-.border {   border-width: 25px;   border-color: black;   border-style: solid; } 
+.border {   border-width: 25px;   border-color: black;   border-style: solid; }
 .separator30 {margin:30px 0;}
 .separator60 {margin:60px 0;}
 
@@ -119,10 +119,10 @@ Color Customizations
 ========================================================================== */
 .bg-white {background-color: #FFF;}
 .bg-grey {background-color: #FAF7F8;}
-.bg-grey {background-color: #FAFAFA;}
+.bg-grey {background-color: #EEE;}
 .bg-grey2 {background-color: #F5F5F5;}
 .bg-blue {background-color: #8ac604;}
-.bg-dark {background-color: #333;}
+.bg-dark {background-color: #444;}
 
 .bg-blue-pattern {background-color: #8ac604; background:url(https://www.fabrics-store.com/inventory/items/Bright-Chartreuse-L.jpg);}
 .bg-testimonial {background:url(../img/headshot-bg.jpg);}
@@ -134,6 +134,8 @@ Color Customizations
 .white-text h3 {color: #FFF;}
 .white-text h2 {color: #FFF;}
 .white-text li {color: #FFF;}
+
+.btn-theme {border:1px solid #8ac604; background-color: #EEE; color:#8ac604; }
 
 /* ==========================================================================
 Line Font
