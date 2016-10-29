@@ -150,7 +150,8 @@ Headline
 .headline {text-align: center; position:relative; border-bottom:1px solid rgba(0,0,0,0.03); margin-bottom: 50px;}
 .headline h1 {color: #31373a; padding-bottom: 15px; border-bottom: 1px solid #DDD; display: inline-block; font-size: 44px; font-weight: 100; letter-spacing: -2px;}
 .headline h2 {font-size: 36px;}
-.headline p {margin-bottom: 40px; font-weight: 100; font-size: 16px; color: #2b2b2b;}
+.headline p {margin-bottom: 40px; font-weight: 100; font-size: 16px; color: #FFFFFF;}
+.join p {margin-bottom: 40px; font-weight: 100; font-size: 36px; color: #FFFFFF;}
 
 /* ==========================================================================
  Navigation
@@ -206,7 +207,7 @@ Banner
 .banner-content { clear: both; padding-top: 40px;}
 .banner-content h1 {font-size: 50px; color: #FFF;  border-bottom:1px solid rgba(0,0,0,0.1); padding-bottom: 10px;text-shadow: 2px 2px 2px #000000;}
 .banner-content h2 {color: #FFF;}
-.banner-content h5 {font-weight: bold; font-size: 16px; color: #FFF;text-shadow: 2px 2px 2px #000000; padding-top: 20px;}
+.banner-content h5 {font-weight: bold; font-size: 16px; color: #FFF;text-shadow: 2px 2px 2px #000000;}
 .banner-content p { color: rgba(255,255,255,0.7); }
 
 .banner-list {margin-bottom: 20px;}
@@ -229,7 +230,7 @@ Process Steps
 ========================================================================== */
 ul.steps-list li {margin-bottom: 25px; border-bottom:1px solid rgba(0,0,0,0.03);}
 ul.steps-list li:last-child {border-bottom: none;}
-ul.steps-list li span{ float:left; border-radius: 50%; width: 25px; height: 25px; line-height: 55px; display:block; font-size:22px; font-weight:bold; text-align:center; background: #1a1a1a; }
+ul.steps-list li span{ float:left; border-radius: 50%; width: 10px; height: 10px; line-height: 55px; display:block; font-size:22px; font-weight:bold; text-align:center; background: #1a1a1a; }
 ul.steps-list li h4,
 ul.steps-list li p { margin-left: 80px; }
 ul.steps-list li h5 { font-weight:600;}
@@ -240,6 +241,7 @@ Main Point
 .main-point {margin-bottom: 20px; }
 .main-point i { display: block; font-size: 56px; color: #1a1a1a;}
 .main-point h3 {font-size: 22px; font-weight: 300; margin-top: 20px; }
+.welcome-text{font-weight:100;font-size: 50px;color:white;line-height: 1;}
 
 /* ==========================================================================
 Features
