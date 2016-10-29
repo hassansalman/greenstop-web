@@ -151,6 +151,7 @@ Headline
 .headline h1 {color: #31373a; padding-bottom: 15px; border-bottom: 1px solid #DDD; display: inline-block; font-size: 44px; font-weight: 100; letter-spacing: -2px;}
 .headline h2 {font-size: 36px;}
 .headline p {margin-bottom: 40px; font-weight: 100; font-size: 16px; color: #FFFFFF;}
+.join {padding-bottom: 15px;}
 .join p {margin-bottom: 40px; font-weight: 100; font-size: 36px; color: #FFFFFF;}
 
 /* ==========================================================================
@@ -517,6 +518,7 @@ Media Queries
 
 /* ------ Mobile Portrait Size to Mobile Landscape Size (devices and browsers) ------*/
 @media only screen and (max-width: 479px) {
+.subline {font-size: 20px;}
 	h2 {font-size: 28px;}
 	h4 {font-size: 16px;}
 	img {float: none; display: block; margin: 20px auto;}
