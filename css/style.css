@@ -502,7 +502,7 @@ Media Queries
 /* ------ Mobile Landscape Size to Tablet Portrait (devices and browsers) ------*/
 @media only screen and (max-width: 767px) {
 	.navbar-inverse {background-color: #FFF; padding:0;}
-	.navbar > .container .navbar-brand {margin-left: 15px; color: #1a1a1a; margin-top: 15px;}
+	.navbar > .container .navbar-brand {margin-left: 15px; color: #1a1a1a; margin-top: 0;}
 	.menu-right {float: none;}
 	.navbar-inverse .navbar-nav > li > a {color: #1a1a1a;}
 	.navbar-inverse .navbar-nav > .active > a,
@@ -519,11 +519,14 @@ Media Queries
 /* ------ Mobile Portrait Size to Mobile Landscape Size (devices and browsers) ------*/
 @media only screen and (max-width: 479px) {
 .subline {font-size: 20px;}
+.banner-form {margin-top: 60px;}
 	h2 {font-size: 28px;}
 	h4 {font-size: 16px;}
 	img {float: none; display: block; margin: 20px auto;}
 	iframe {max-height: 200px;}
 	.banner-content h1 {font-size: 34px;}
+  .form-body{padding: 15px;}
+  .form-body h3 {font-size: 16px; color: #fff;}
 	.headline h1 {font-size: 30px;}
 	.headline h2 {font-size: 28px;}
 	.section {padding: 50px 0;}
