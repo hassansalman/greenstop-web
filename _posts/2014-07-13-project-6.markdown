@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Example
 subtitle: Graphic Design
 layout: default
 modal-id: 6
