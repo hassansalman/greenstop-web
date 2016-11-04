@@ -1,0 +1,122 @@
+url: http://greenstop.us
+baseurl: ""
+include: ["_pages"]
+
+# Site settings
+title: GreenSTOP
+email: timothy@greenstop.us
+description: "GreenSTOP LLC is a “hands off” (ancillary) technology company creating software and hardware applications for the legal cannabis market. Our technology will help expedite, brand, and professionalize the cannabis buying experience in current legal dispensaries."
+permalink: /:title/
+
+# Team names, titles and social links
+people:
+- name: Timothy Island
+  pic: tim
+  position: Co-Founder/CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: James Edwards
+  pic: james
+  position: Co-Founder/CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Hassan Salman
+  pic: me
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Michael Strauss
+  pic: mikeyVC
+  position: Finance/Business
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Simeon Russell
+  pic: simeon
+  position: Marketing Advisor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Chris Ramirez
+  pic: crpic
+  position: Talent 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+- name: Paul Randall
+  pic: prpic
+  position: Research and Development
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Darien F Rodriguez
+  pic: dfrcard
+  position: Director/Co-Producer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Pacific Coast Highway
+  - line: Redondo Beach, CA 90278
+
+# Build settings
+markdown: kramdown
+permalink: pretty
