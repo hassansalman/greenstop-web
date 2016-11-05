@@ -4,7 +4,7 @@ include: ["_pages"]
 
 # Site settings
 title: GreenSTOP
-email: timothy@greenstop.us
+email: hassan@greenstop.us
 description: "GreenSTOP LLC is a “hands off” (ancillary) technology company creating software and hardware applications for the legal cannabis market. Our technology will help expedite, brand, and professionalize the cannabis buying experience in current legal dispensaries."
 permalink: /:title/
 
@@ -66,7 +66,7 @@ people:
       url: #
 
 - name: Chris Ramirez
-  pic: crpic
+  pic: chris
   position: Talent 
   social:
     - title: twitter
@@ -78,7 +78,7 @@ people:
 
 
 - name: Paul Randall
-  pic: prpic
+  pic: paul
   position: Research and Development
   social:
     - title: twitter
@@ -89,7 +89,7 @@ people:
       url: #
 
 - name: Darien F Rodriguez
-  pic: dfrcard
+  pic: darien
   position: Director/Co-Producer
   social:
     - title: twitter
