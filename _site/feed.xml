@@ -5,9 +5,9 @@
     <description>GreenSTOP LLC is a “hands off” (ancillary) technology company creating software and hardware applications for the legal cannabis market. Our technology will help expedite, brand, and professionalize the cannabis buying experience in current legal dispensaries.</description>
     <link>http://greenstop.us/</link>
     <atom:link href="http://greenstop.us/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 04 Nov 2016 17:38:31 -0700</pubDate>
-    <lastBuildDate>Fri, 04 Nov 2016 17:38:31 -0700</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <pubDate>Fri, 04 Nov 2016 18:39:30 -0700</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 18:39:30 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Dreams</title>
@@ -18,7 +18,7 @@
         <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/18/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>web development</category>
         
       </item>
     
@@ -31,7 +31,7 @@
         <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/17/project-2/</guid>
         
         
-        <category>Web Development</category>
+        <category>web development</category>
         
       </item>
     
@@ -44,20 +44,7 @@
         <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/16/project-3/</guid>
         
         
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Treehouse</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://greenstop.us/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>Web Development</category>
+        <category>web development</category>
         
       </item>
     
@@ -70,7 +57,20 @@
         <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/15/project-6/</guid>
         
         
-        <category>Web Development</category>
+        <category>web development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://greenstop.us/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/15/project-4/</guid>
+        
+        
+        <category>web development</category>
         
       </item>
     
@@ -83,7 +83,7 @@
         <guid isPermaLink="true">http://greenstop.us/web%20development/2014/07/14/project-5/</guid>
         
         
-        <category>Web Development</category>
+        <category>web development</category>
         
       </item>
     
