@@ -1,4 +1,4 @@
-url: http://greenstop.us
+url: http://www.greenstop.us
 baseurl: ""
 include: ["_pages"]
 
@@ -7,11 +7,26 @@ title: GreenSTOP
 email: hassan@greenstop.us
 description: "GreenSTOP LLC is a “hands off” (ancillary) technology company creating software and hardware applications for the legal cannabis market. Our technology will help expedite, brand, and professionalize the cannabis buying experience in current legal dispensaries."
 permalink: /:title/
+logo : /img/logos/gslogo_full.png
 repository: hassansalman/greenstop-web
+
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: ""
+google_ad-client: ""
+google_ad-slot: ""  
 
 # Team names, titles and social links
 people:
 - name: Timothy Island
+  bio: 
   pic: tim
   position: Co-Founder/CEO
   social:
@@ -23,6 +38,7 @@ people:
       url: #
 
 - name: James Edwards
+  bio: 
   pic: james
   position: Co-Founder/CEO
   social:
@@ -34,6 +50,7 @@ people:
       url: #
 
 - name: Hassan Salman
+  bio: 
   pic: me
   position: Lead Developer
   social:
@@ -45,6 +62,7 @@ people:
       url: #
 
 - name: Michael Strauss
+  bio:
   pic: mikeyVC
   position: Finance/Business
   social:
@@ -56,6 +74,7 @@ people:
       url: #
 
 - name: Simeon Russell
+  bio:
   pic: simeon
   position: Marketing Advisor
   social:
@@ -67,6 +86,7 @@ people:
       url: #
 
 - name: Chris Ramirez
+  bio:
   pic: chris
   position: Talent 
   social:
@@ -79,6 +99,7 @@ people:
 
 
 - name: Paul Randall
+  bio:
   pic: paul
   position: Research and Development
   social:
@@ -90,6 +111,7 @@ people:
       url: #
 
 - name: Darien F Rodriguez
+  bio: 
   pic: darien
   position: Director/Co-Producer
   social:
