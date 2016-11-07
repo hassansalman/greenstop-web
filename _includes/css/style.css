@@ -173,6 +173,7 @@ Banner
 .feats-list li {color: #444; margin-bottom: 5px;}
 .feats-list li i { margin-right: 10px; color:#8ac604; }
 .jobs-list li {color:#444; font-weight: 600; margin-top: 20px; list-style-type: circle;}
+.prize-list {text-align: left; font-size: 20px; margin-bottom: 25px; line-height: 1.75;}
 /* ==========================================================================
 Venture Cannabis
 ========================================================================== */
