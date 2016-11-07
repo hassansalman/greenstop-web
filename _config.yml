@@ -30,32 +30,34 @@ people:
   pic: tim
   position: Co-Founder/CEO
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: http://www.instagram.com/futurist_timothy
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/tim.d.island
+    - title: linkedin
+      url: https://www.linkedin.com/in/timothy-island-9364b6117
+
 
 - name: James Edwards
   bio: 
   pic: james
   position: Co-Founder/CEO
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/jayrocket_
     - title: facebook
-      url: #
+      url: https://www.facebook.com/jayr0cket
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jayrocket
+
 
 - name: Hassan Salman
   bio: 
   pic: me
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/hassansalman8
     - title: facebook
       url: #
     - title: google-plus
