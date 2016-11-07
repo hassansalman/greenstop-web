@@ -7,7 +7,7 @@ title: GreenSTOP
 email: hassan@greenstop.us
 description: "GreenSTOP LLC is a “hands off” (ancillary) technology company creating software and hardware applications for the legal cannabis market. Our technology will help expedite, brand, and professionalize the cannabis buying experience in current legal dispensaries."
 permalink: /:title/
-logo : /img/logos/gslogo_full.png
+logo: /img/logos/gslogo_full.png
 repository: hassansalman/greenstop-web
 
 
