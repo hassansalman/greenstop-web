@@ -1,14 +1,8 @@
-/* ==========================================================================
-Template Name 	: Cleany
-Author				: Simplesphere - Anoop Jeewoolall
-Theme Url 			: http://websites.simplesphere.net/cleany/
-Description		: Cleany - Landing Page
-Website				: http://www.simplesphere.net
-========================================================================== */
+
 /* ==========================================================================
 Basic Styling
 ========================================================================== */
-body { width: 100%; min-height: 100%; font-family: "Open Sans", "Raleway", Lucida Sans Unicode, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 23px; color: #7a7a7a; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;}
+body { width: 100%; min-height: 100%; font-family: "Open Sans", "Raleway", Lucida Sans Unicode, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 23px; color: #7a7a7a; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;overflow-x: hidden;}
 h1, h2, h3, h4, h5, h6 { font-weight: 300; font-family: "Raleway", Lucida Sans Unicode, "Helvetica Neue", Helvetica,Arial,sans-serif; color: #1a1a1a; transition: all .50s ease-in-out; -moz-transition: all .50s ease-in-out; -webkit-transition: all .50s ease-in-out;}
 h1, h2, h3, h4, h5, h6 { margin-top: 0;  margin-bottom: 10px;}
 h1 {font-size: 44px;}
@@ -95,6 +89,7 @@ Color Customizations
 .bg-team {background:url(../img/headshot-bg.jpg);}
 .bg-join {background-color: #8ac604;background: url(../img/joinus-bg.png);background-position: left center;background-repeat: no-repeat;background-size: cover;height: 100%;}
 .blue {color: #8ac604;}
+.dark-text {color: #444;}
 .white-text {color: #FFF;}
 .white-text p {color: #FFF;}
 .white-text h3 {color: #FFF;}
@@ -212,7 +207,7 @@ Forms
 ========================================================================== */
 .banner-form { -webkit-box-shadow:0 0 10px rgba(0,0,0,.3); -moz-box-shadow: 0 0 10px rgba(0,0,0,.3); box-shadow: 0 0 10px rgba(0,0,0,.3); background: rgba(0,0,0,0.4);}
 .form-title {background-color: rgba(0,0,0,0.5); color: #FFF; text-align: center; padding: 25px 0;}
-.form-title h2 {margin-bottom: 0; font-size: 22px;}
+.form-title h2 {margin-bottom: 0; font-size: 22px; text-align: left; padding-left: 10px;}
 .form-body {padding: 30px;}
 .form-body p {color: rgba(255,255,255,0.6);}
 .banner-form .form-control { color: #8ac604; border: none; outline: none; box-shadow: none; padding: 13px 15px; transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; border-radius: 0; height: auto; background-color: rgba(0,0,0,0.4); margin-bottom: 15px;}
@@ -308,6 +303,8 @@ a{ color:#88C425;}
 a:hover{ text-decoration:none; color:#519548;}
 i.red{ color:#BC0213;}
 .truncate { width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+
+
 /* ==========================================================================
 Media Queries
 ========================================================================== */

@@ -1,6 +1,8 @@
 url: http://www.greenstop.us
 baseurl: ""
 include: ["_pages"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
 
 # Site settings
 title: GreenSTOP
@@ -9,14 +11,14 @@ description: "GreenSTOP LLC is a “hands off” (ancillary) technology company 
 permalink: /:title/
 logo: /img/logos/gslogo_full.png
 repository: hassansalman/greenstop-web
-
+compress_html:
+  clippings: all
 
 # SEO Related
-google_site_verification :
+google_site_verification : "cU-Wxvyw6hA84EseoegT3EJNSoviqUj-EfNXkRBe__k"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: "UA-86935290-1"
@@ -26,7 +28,7 @@ google_ad-slot: ""
 # Team names, titles and social links
 people:
 - name: Timothy Island
-  bio: 
+  bio: Island was born in southern California and raised. Island started off his life with a great passion for the game of basketball. He earned himself several Division I basketball scholarships to San Diego State University and California State University Long Beach. Island opened up is first business when he was twenty-two, and continues to have a keen sense of entrepreneurship.
   pic: tim
   position: Co-Founder/CEO
   social:
@@ -39,7 +41,7 @@ people:
 
 
 - name: James Edwards
-  bio: 
+  bio: James is a longtime businessman, getting his start in real estate at age nineteen. He soon moved on to a tech company when he was twenty-two. He now has been managing multi- million dollar retail stores for the past 6 years. He went to Cal State LA for TV and film. His education in media is what sparked the idea for Venture Cannabis, the reality show about GreenStop, which is currently in production.
   pic: james
   position: Co-Founder/CEO
   social:
@@ -52,77 +54,67 @@ people:
 
 
 - name: Hassan Salman
-  bio: 
+  bio: Salman is a Web developer based out of Los Angeles, California. He is passionate about using technology based solutions to help solve real world problems in a creative yet practical manner.
   pic: me
   position: Lead Developer
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/hassansalman8
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Michael Strauss
-  bio:
+  bio: Strauss is a business development consultant with over five years of experience in developing new products and services. He has managed projects in several stages of development.
   pic: mikeyVC
   position: Finance/Business
   social:
-    - title: twitter
+    - title: linkedin
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
+      
 - name: Simeon Russell
-  bio:
+  bio: Russell graduated from John Brown University with a Bachelor’s of Science in Digital Media and an Associate’s of Arts in Broadcasting. Russell has worked for several Hollywood studios and has an inspired creative desire to share the joy of who we are, with the world.
   pic: simeon
   position: Marketing Advisor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
+  #     url: #
 
 - name: Chris Ramirez
-  bio:
+  bio: Ramirez was raised in Florida and joined the army at nineteen. He spent over seven years serving our country. After he completed his second term, he moved to California to pursue a career in entertainment. He attended Virginia State University and graduated from University of Phoenix with a Bachelor’s of Science in Business.
   pic: chris
   position: Talent 
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/chris-ramirez-a19668b6
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/chris.ramirez.165470
 
 
 - name: Paul Randall
-  bio:
+  bio: Randall has over 20 years of management experience in retail and logistics. He is currently running our Research and Development department, here at GreenSTOP.
   pic: paul
   position: Research and Development
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
 
 - name: Darien F Rodriguez
   bio: 
   pic: darien
   position: Director/Co-Producer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -147,3 +139,10 @@ markdown: kramdown
 permalink: pretty
 
 gems: [jekyll-seo-tag, jekyll-sitemap, jekyll-github-metadata]
+
+# Simple Form 
+token_main: "b047206c6c3654bdd0c8616707a03f6ds"
+token_vc: "602daa2edb4fc778837574d5d2649403"
+token_join: "1ecdc347cd2eb0a2d0d86fd9d90412bc"
+token_smart: "7aa6367caad3ff4e5691392423d9ccbb"
+token_invest: "98af0c42ca860301f1ac3cb55aa92821"
