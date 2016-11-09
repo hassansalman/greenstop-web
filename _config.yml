@@ -13,13 +13,6 @@ logo: /img/logos/gslogo_full.png
 repository: hassansalman/greenstop-web
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: true
-  startings: [html, head, body]
 
 # SEO Related
 google_site_verification : "cU-Wxvyw6hA84EseoegT3EJNSoviqUj-EfNXkRBe__k"
